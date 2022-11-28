@@ -2,10 +2,21 @@
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## Getting Started with this project
 
-First, run the development server:
+First, clone this repository:
+```zsh
+git clone https://github.com/GreenJ84/Next_Meetups.git
+```
 
+Next, Install all project dependencies:
+```zsh
+npm install
+#or 
+yarn install
+```
+
+Then, run the development server:
 ```zsh
 npm run dev
 # or
